@@ -15,4 +15,4 @@ What do you get as a result?
 16777216
 
 ## Procedure
-![Execution process](img/01 - hw_1_1.jpg)
+![Execution process](img/01_hw_1_1.jpg)
