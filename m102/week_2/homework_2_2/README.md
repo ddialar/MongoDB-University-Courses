@@ -61,7 +61,7 @@ Now, I'm going to obtaining the specified item as JSON in order to be edited.
 > myVar = db.products.find({"_id":ObjectId("507d95d5719dbef170f15c00")},{}).toArray()[0]
 ```
 
-This command obtain the selected document as a JSON instead of a BSON pointer. This way, now we are able to edit its content. In fact, we can query the specified fields.
+This command obtains the selected document as a JSON instead of a BSON pointer. This way, now we are able to edit its content. In fact, we can query the specified fields.
 
 ![Execution process](img/03 - hw_2_2.jpg)
 
