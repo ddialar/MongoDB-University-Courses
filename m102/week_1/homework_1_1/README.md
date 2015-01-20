@@ -15,4 +15,4 @@ What do you get as a result?
 16777216
 
 ## Procedure
-![Execution process](img/01_hw_1_1.jpg)
+![Execution process](https://github.com/ddialar/MongoDB-University-Courses/blob/master/m102/week_1/homework_1_1/img/01_hw_1_1.JPG)
