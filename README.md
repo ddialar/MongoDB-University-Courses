@@ -8,15 +8,16 @@ Not enrolled yet
 
 ### M101JS: MongoDB for Node.js Developers ([link](https://university.mongodb.com/courses/M101JS/about Official course site))
 
-Not enrolled yet
+**Currently enrolled**
 
 ### M101P: MongoDB for Python Developers ([link](https://university.mongodb.com/courses/M101P/about Official course site))
 
-Not enrolled yet
+**Currently enrolled**
 
 ### M102: MongoDB for DBAs ([link](https://university.mongodb.com/courses/M102/about Official course site))
 
-**Currently enrolled**
+**Finished course on February 2015**
+I'm currently making screen captures of procedures.
 
 ### M202: MongoDB Advanced Deployment and Operations ([link](https://university.mongodb.com/courses/M202/about Official course site))
 
