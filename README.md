@@ -1,4 +1,4 @@
-# Mongo University Courses
+# MongoDB University Courses
 
 Set of answers used along [MongoDB University](https://university.mongodb.com/ Mongo University official site) Courses.
 
