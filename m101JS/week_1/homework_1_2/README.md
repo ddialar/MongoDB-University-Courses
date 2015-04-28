@@ -26,6 +26,7 @@ This should create a "node_modules" directory. Now run the application to get th
 node app.js
 ```
 
+
 If you have the mongodb driver installed correctly, this will print out the message 'Answer: ' followed by some additional text. Write that text in the text box below.
 
 ## Answer

@@ -2,6 +2,7 @@ var MongoClient = require('mongodb').MongoClient,
     crypto = require('crypto'),
     assert = require('assert');
 
+
 MongoClient.connect('mongodb://localhost:27017/m101', function(err, db) {
     if(err) throw err;
 
